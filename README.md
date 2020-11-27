@@ -2,6 +2,12 @@
 
 42 (Paris)
 
+### **Modified by paikwiki**
+
+환경변수 `$USER`와 `$MAIL` 대신 각각 `$USER_42`와 `$MAIL_42`를 사용하도록 변경했습니다. 
+
+사용법은 기존 42header와 동일하며, 환경변수 끝에 각각 `_42`만 붙여서 적용하면 됩니다.
+
 ### **Description**
 
 42 standard header for vim editor.
